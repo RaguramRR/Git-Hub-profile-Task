@@ -1,0 +1,87 @@
+.container-fluid{
+    background-color: #2F3D46 !important;
+}
+body{
+    background-color:#CAD2C5 !important;
+    width: 100vw;
+    overflow: hidden;
+}
+.bg-dark{
+    color: #2F3D46 !important;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+.hd{
+    color: white;
+    font-size: 25px;
+    font-family: "Outfit", sans-serif;
+}
+.navbar{
+    background-color: #2F3D46;
+}
+.col{
+    background-color: #353535 ;
+    height:130px;
+    background-color: #353535;
+    border-radius: 25px;
+  }
+  .card-1{
+    background-color: #353535;
+    border-radius: 25px;
+    color: #353535;
+    margin-top: 55px;
+    margin-left: -2rem !important;
+  }
+  .card-body{
+    background-color: #353535;
+    border-radius: 25px;
+    margin-top: 2px !important;
+  }
+  .mid-card{
+    border-radius: 25px;
+    margin-top: 90px;
+    margin-left: 140px;
+}
+.midd-card{
+    background-color: #353535;
+    margin-top: 90px;
+    height: 120px;
+    width: 180px;
+    margin-left: 510px;
+    border-radius: 25px;
+}
+.middl-card{
+    background-color: #353535;
+    height: 120px;
+    width: 180px;
+    margin-left: 770px;
+    margin-top: -125px;
+    border-radius: 25px;
+}
+.middle-card{
+    background-color: #353535;
+    height: 120px;
+    width: 180px;
+    margin-left: 1030px;
+    margin-top: -125px;
+    border-radius: 25px;
+}
+.search-card{
+    color: #353535 !important;
+    height: 50px;
+    width: 700px;
+    margin-top: -540px;
+    margin-left: 510px;
+    border-radius: 10px;
+}
+.form-control.me-3.col-10{
+    color: whitesmoke;
+    background-color: #353535;
+text-emphasis-color: white;
+}
+
+
+
+
+
